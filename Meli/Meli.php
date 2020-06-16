@@ -1,5 +1,7 @@
 <?php
 
+namespace Satiricon\Meli;
+
 class Meli {
 
 	/**
